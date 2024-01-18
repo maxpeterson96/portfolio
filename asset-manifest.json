@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.a7f2096b.css",
+    "main.css": "/portfolio/static/css/main.dc4e453f.css",
     "main.js": "/portfolio/static/js/main.d58e432d.js",
     "static/js/787.2dcca737.chunk.js": "/portfolio/static/js/787.2dcca737.chunk.js",
     "static/media/justifire-dashboard-selected.PNG": "/portfolio/static/media/justifire-dashboard-selected.8379a587a7dacd534105.PNG",
@@ -14,12 +14,12 @@
     "static/media/justifire-notifications.PNG": "/portfolio/static/media/justifire-notifications.cd4d24f419e5d0956df3.PNG",
     "static/media/justifire-account.PNG": "/portfolio/static/media/justifire-account.0c940c7c66498f65fc0d.PNG",
     "index.html": "/portfolio/index.html",
-    "main.a7f2096b.css.map": "/portfolio/static/css/main.a7f2096b.css.map",
+    "main.dc4e453f.css.map": "/portfolio/static/css/main.dc4e453f.css.map",
     "main.d58e432d.js.map": "/portfolio/static/js/main.d58e432d.js.map",
     "787.2dcca737.chunk.js.map": "/portfolio/static/js/787.2dcca737.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a7f2096b.css",
+    "static/css/main.dc4e453f.css",
     "static/js/main.d58e432d.js"
   ]
 }
