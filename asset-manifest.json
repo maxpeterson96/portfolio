@@ -1,25 +1,40 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.dc4e453f.css",
-    "main.js": "/portfolio/static/js/main.d58e432d.js",
+    "main.css": "/portfolio/static/css/main.718c42f6.css",
+    "main.js": "/portfolio/static/js/main.924a5ba3.js",
     "static/js/787.2dcca737.chunk.js": "/portfolio/static/js/787.2dcca737.chunk.js",
+    "static/media/justifire-dashboard-clean.PNG": "/portfolio/static/media/justifire-dashboard-clean.f9f9c06036bc5d072bc2.PNG",
     "static/media/justifire-dashboard-selected.PNG": "/portfolio/static/media/justifire-dashboard-selected.8379a587a7dacd534105.PNG",
     "static/media/justifire-dashboard.PNG": "/portfolio/static/media/justifire-dashboard.3b183eb2e567ae234d99.PNG",
+    "static/media/vista-zones.PNG": "/portfolio/static/media/vista-zones.f9e74eff93eb802de158.PNG",
     "static/media/justifire-events-weekly.PNG": "/portfolio/static/media/justifire-events-weekly.1a7fa4ccd64f62f67a45.PNG",
     "static/media/justifire-devices-cards.PNG": "/portfolio/static/media/justifire-devices-cards.6f382bd66833494e9b62.PNG",
+    "static/media/vista-full-dims.PNG": "/portfolio/static/media/vista-full-dims.95331099236d030dcec5.PNG",
+    "static/media/vista-sunrise-sunset.PNG": "/portfolio/static/media/vista-sunrise-sunset.b713e02770fc57aa416d.PNG",
+    "static/media/vista-astro-offset.PNG": "/portfolio/static/media/vista-astro-offset.95489b16fe02b218edf2.PNG",
+    "static/media/vista-set-astro.PNG": "/portfolio/static/media/vista-set-astro.8d1ef46118c3cbe8dac3.PNG",
+    "static/media/vista-set-time.PNG": "/portfolio/static/media/vista-set-time.a7a07a3a55a30d153626.PNG",
     "static/media/justifire-profile.PNG": "/portfolio/static/media/justifire-profile.7733d328fe7b1870a4dd.PNG",
     "static/media/justifire-device-focused.PNG": "/portfolio/static/media/justifire-device-focused.4a9893bcdda790c1b6e7.PNG",
+    "static/media/vista-calibrate-brightness.PNG": "/portfolio/static/media/vista-calibrate-brightness.665406b9e1aea08466b9.PNG",
+    "static/media/vista-wifi-util.PNG": "/portfolio/static/media/vista-wifi-util.5f7d37bd8aaf43171ffa.PNG",
+    "static/media/vista-manage-controller.PNG": "/portfolio/static/media/vista-manage-controller.3195cacbc5211613f606.PNG",
     "static/media/justifire-events-monthly.PNG": "/portfolio/static/media/justifire-events-monthly.4cff5416290e508e63c2.PNG",
+    "static/media/vista-controllers.PNG": "/portfolio/static/media/vista-controllers.ddd99182c8724addb893.PNG",
+    "static/media/vista-scan-qr.PNG": "/portfolio/static/media/vista-scan-qr.f66836b68a3025232ae8.PNG",
+    "static/media/vista-add-controller.PNG": "/portfolio/static/media/vista-add-controller.300781047cf053d8e893.PNG",
     "static/media/justifire-devices-tabs.PNG": "/portfolio/static/media/justifire-devices-tabs.c6839e8554c29597f3ec.PNG",
+    "static/media/vista-contact-us.PNG": "/portfolio/static/media/vista-contact-us.04cf5a594469a607c28d.PNG",
     "static/media/justifire-notifications.PNG": "/portfolio/static/media/justifire-notifications.cd4d24f419e5d0956df3.PNG",
     "static/media/justifire-account.PNG": "/portfolio/static/media/justifire-account.0c940c7c66498f65fc0d.PNG",
+    "static/media/vista-modal.PNG": "/portfolio/static/media/vista-modal.37befe64432cc8ce66c8.PNG",
     "index.html": "/portfolio/index.html",
-    "main.dc4e453f.css.map": "/portfolio/static/css/main.dc4e453f.css.map",
-    "main.d58e432d.js.map": "/portfolio/static/js/main.d58e432d.js.map",
+    "main.718c42f6.css.map": "/portfolio/static/css/main.718c42f6.css.map",
+    "main.924a5ba3.js.map": "/portfolio/static/js/main.924a5ba3.js.map",
     "787.2dcca737.chunk.js.map": "/portfolio/static/js/787.2dcca737.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.dc4e453f.css",
-    "static/js/main.d58e432d.js"
+    "static/css/main.718c42f6.css",
+    "static/js/main.924a5ba3.js"
   ]
 }
