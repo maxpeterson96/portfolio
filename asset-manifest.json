@@ -1,13 +1,15 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.1f37dffa.css",
-    "main.js": "/portfolio/static/js/main.8f6a60da.js",
+    "main.js": "/portfolio/static/js/main.46b45013.js",
     "static/js/787.2dcca737.chunk.js": "/portfolio/static/js/787.2dcca737.chunk.js",
+    "static/media/swapatrol-product-screen.PNG": "/portfolio/static/media/swapatrol-product-screen.8fa34d371c7db9f27f1d.PNG",
     "static/media/justifire-dashboard-clean.PNG": "/portfolio/static/media/justifire-dashboard-clean.865e16e60b844e27fb64.PNG",
     "static/media/justifire-dashboard-selected.PNG": "/portfolio/static/media/justifire-dashboard-selected.5939bbaff0cf3c9c93f8.PNG",
     "static/media/justifire-dashboard.PNG": "/portfolio/static/media/justifire-dashboard.596448d92f7c4a2cc8ff.PNG",
     "static/media/swapatrol-dashboard-1.PNG": "/portfolio/static/media/swapatrol-dashboard-1.7cb4d7f8912332616c91.PNG",
     "static/media/swapatrol-dashboard-2.PNG": "/portfolio/static/media/swapatrol-dashboard-2.98eb5d228f9262c9ef54.PNG",
+    "static/media/swapatrol-my-products.PNG": "/portfolio/static/media/swapatrol-my-products.a4b9662d94b7fd73606a.PNG",
     "static/media/vista-zones.PNG": "/portfolio/static/media/vista-zones.c0d079cf05783b212578.PNG",
     "static/media/swapatrol-welcome-screen.PNG": "/portfolio/static/media/swapatrol-welcome-screen.f6527323387dd312a94e.PNG",
     "static/media/justifire-events-weekly.PNG": "/portfolio/static/media/justifire-events-weekly.67560a6b3c25e6fd2eef.PNG",
@@ -39,11 +41,11 @@
     "static/media/vista-modal.PNG": "/portfolio/static/media/vista-modal.c4d73efc893fcb61659e.PNG",
     "index.html": "/portfolio/index.html",
     "main.1f37dffa.css.map": "/portfolio/static/css/main.1f37dffa.css.map",
-    "main.8f6a60da.js.map": "/portfolio/static/js/main.8f6a60da.js.map",
+    "main.46b45013.js.map": "/portfolio/static/js/main.46b45013.js.map",
     "787.2dcca737.chunk.js.map": "/portfolio/static/js/787.2dcca737.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1f37dffa.css",
-    "static/js/main.8f6a60da.js"
+    "static/js/main.46b45013.js"
   ]
 }
