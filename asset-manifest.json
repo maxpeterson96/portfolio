@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.1f37dffa.css",
-    "main.js": "/portfolio/static/js/main.0b5d3112.js",
+    "main.css": "/portfolio/static/css/main.b6013411.css",
+    "main.js": "/portfolio/static/js/main.6a0c7e5d.js",
     "static/js/787.2dcca737.chunk.js": "/portfolio/static/js/787.2dcca737.chunk.js",
     "static/media/swapatrol-product-screen.PNG": "/portfolio/static/media/swapatrol-product-screen.8fa34d371c7db9f27f1d.PNG",
     "static/media/justifire-dashboard-clean.PNG": "/portfolio/static/media/justifire-dashboard-clean.865e16e60b844e27fb64.PNG",
@@ -41,12 +41,12 @@
     "static/media/justifire-account.PNG": "/portfolio/static/media/justifire-account.cdc3e9aaa9940bee6459.PNG",
     "static/media/vista-modal.PNG": "/portfolio/static/media/vista-modal.c4d73efc893fcb61659e.PNG",
     "index.html": "/portfolio/index.html",
-    "main.1f37dffa.css.map": "/portfolio/static/css/main.1f37dffa.css.map",
-    "main.0b5d3112.js.map": "/portfolio/static/js/main.0b5d3112.js.map",
+    "main.b6013411.css.map": "/portfolio/static/css/main.b6013411.css.map",
+    "main.6a0c7e5d.js.map": "/portfolio/static/js/main.6a0c7e5d.js.map",
     "787.2dcca737.chunk.js.map": "/portfolio/static/js/787.2dcca737.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.1f37dffa.css",
-    "static/js/main.0b5d3112.js"
+    "static/css/main.b6013411.css",
+    "static/js/main.6a0c7e5d.js"
   ]
 }
