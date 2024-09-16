@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.b6013411.css",
-    "main.js": "/portfolio/static/js/main.fc351816.js",
+    "main.js": "/portfolio/static/js/main.1c840ebd.js",
     "static/js/787.2dcca737.chunk.js": "/portfolio/static/js/787.2dcca737.chunk.js",
     "static/media/justifire-dashboard-clean.PNG": "/portfolio/static/media/justifire-dashboard-clean.865e16e60b844e27fb64.PNG",
     "static/media/justifire-dashboard-selected.PNG": "/portfolio/static/media/justifire-dashboard-selected.5939bbaff0cf3c9c93f8.PNG",
@@ -23,6 +23,7 @@
     "static/media/swapatrol-propose-trade.PNG": "/portfolio/static/media/swapatrol-propose-trade.cd9796fa62a4f188c9c8.PNG",
     "static/media/swapatrol-my-deals.PNG": "/portfolio/static/media/swapatrol-my-deals.9b377a89b59ece25cca1.PNG",
     "static/media/justifire-profile.PNG": "/portfolio/static/media/justifire-profile.e6e1085607eccd66042d.PNG",
+    "static/media/vista-smart-home.PNG": "/portfolio/static/media/vista-smart-home.11be28e7c1ce701c6eef.PNG",
     "static/media/vista-calibrate-brightness.PNG": "/portfolio/static/media/vista-calibrate-brightness.dce1b43113dbf2c42135.PNG",
     "static/media/swapatrol-chat-trade.PNG": "/portfolio/static/media/swapatrol-chat-trade.f063431e900cb801f9e5.PNG",
     "static/media/justifire-device-focused.PNG": "/portfolio/static/media/justifire-device-focused.c0e7a497a7f15dde4ef5.PNG",
@@ -31,10 +32,10 @@
     "static/media/vista-controllers.PNG": "/portfolio/static/media/vista-controllers.1bf24f03647d40eb77df.PNG",
     "static/media/vista-scan-qr.PNG": "/portfolio/static/media/vista-scan-qr.cba21ed365c9b540d197.PNG",
     "static/media/vista-add-controller.PNG": "/portfolio/static/media/vista-add-controller.9ab54aa84b8390faf135.PNG",
+    "static/media/vista-contact-us.PNG": "/portfolio/static/media/vista-contact-us.e3419b67743cd95427ec.PNG",
     "static/media/justifire-events-monthly.PNG": "/portfolio/static/media/justifire-events-monthly.03fb1e56ee348a23972c.PNG",
     "static/media/justifire-devices-tabs.PNG": "/portfolio/static/media/justifire-devices-tabs.f6bc774cdf540cd78494.PNG",
     "static/media/swapatrol-my-account.PNG": "/portfolio/static/media/swapatrol-my-account.061e5ffd70241310a3e7.PNG",
-    "static/media/vista-contact-us.PNG": "/portfolio/static/media/vista-contact-us.77bf4837273a266d4ecc.PNG",
     "static/media/swapatrol-chat-buy.PNG": "/portfolio/static/media/swapatrol-chat-buy.292724b192c2ee93a308.PNG",
     "static/media/justifire-notifications.PNG": "/portfolio/static/media/justifire-notifications.25b4e766763e91eebaf3.PNG",
     "static/media/swapatrol-product-upload.PNG": "/portfolio/static/media/swapatrol-product-upload.df7d021ef11449f225bf.PNG",
@@ -42,11 +43,11 @@
     "static/media/vista-modal.PNG": "/portfolio/static/media/vista-modal.c4d73efc893fcb61659e.PNG",
     "index.html": "/portfolio/index.html",
     "main.b6013411.css.map": "/portfolio/static/css/main.b6013411.css.map",
-    "main.fc351816.js.map": "/portfolio/static/js/main.fc351816.js.map",
+    "main.1c840ebd.js.map": "/portfolio/static/js/main.1c840ebd.js.map",
     "787.2dcca737.chunk.js.map": "/portfolio/static/js/787.2dcca737.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b6013411.css",
-    "static/js/main.fc351816.js"
+    "static/js/main.1c840ebd.js"
   ]
 }
