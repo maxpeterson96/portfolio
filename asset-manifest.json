@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.1f37dffa.css",
-    "main.js": "/portfolio/static/js/main.46b45013.js",
+    "main.js": "/portfolio/static/js/main.0b5d3112.js",
     "static/js/787.2dcca737.chunk.js": "/portfolio/static/js/787.2dcca737.chunk.js",
     "static/media/swapatrol-product-screen.PNG": "/portfolio/static/media/swapatrol-product-screen.8fa34d371c7db9f27f1d.PNG",
     "static/media/justifire-dashboard-clean.PNG": "/portfolio/static/media/justifire-dashboard-clean.865e16e60b844e27fb64.PNG",
@@ -13,6 +13,7 @@
     "static/media/vista-zones.PNG": "/portfolio/static/media/vista-zones.c0d079cf05783b212578.PNG",
     "static/media/swapatrol-welcome-screen.PNG": "/portfolio/static/media/swapatrol-welcome-screen.f6527323387dd312a94e.PNG",
     "static/media/justifire-events-weekly.PNG": "/portfolio/static/media/justifire-events-weekly.67560a6b3c25e6fd2eef.PNG",
+    "static/media/swapatrol-propose-buy.jpeg": "/portfolio/static/media/swapatrol-propose-buy.53d106c5e3487ea1b89b.jpeg",
     "static/media/vista-astro-offset.PNG": "/portfolio/static/media/vista-astro-offset.a9b10dd00f3ac7ea7a29.PNG",
     "static/media/vista-full-dims.PNG": "/portfolio/static/media/vista-full-dims.4c462fe7e11a2765e60a.PNG",
     "static/media/vista-sunrise-sunset.PNG": "/portfolio/static/media/vista-sunrise-sunset.85d6d89b466ec8256c92.PNG",
@@ -41,11 +42,11 @@
     "static/media/vista-modal.PNG": "/portfolio/static/media/vista-modal.c4d73efc893fcb61659e.PNG",
     "index.html": "/portfolio/index.html",
     "main.1f37dffa.css.map": "/portfolio/static/css/main.1f37dffa.css.map",
-    "main.46b45013.js.map": "/portfolio/static/js/main.46b45013.js.map",
+    "main.0b5d3112.js.map": "/portfolio/static/js/main.0b5d3112.js.map",
     "787.2dcca737.chunk.js.map": "/portfolio/static/js/787.2dcca737.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1f37dffa.css",
-    "static/js/main.46b45013.js"
+    "static/js/main.0b5d3112.js"
   ]
 }
